@@ -1,6 +1,7 @@
 # Akagu Font
 
-Editing the Akagu font to support Nsibidi in PUA range
+Editing the Akagu font to support Nsibidi in PUA range. This font will be used to submit our final proposal
+to Unicode to add Akagu and Nsibidi script.
 
 ## FontForge
 
@@ -27,3 +28,14 @@ This means that we need to make sure that include the last 6 characters.
 
 Files that end in `.sfd` are the working file type that FontForge works with. If we upload an `.sfd`
 font into FontForge, we can edit the font.
+
+## Acknowledgements
+
+Thank you to the following contributors of editing the Akagu font.
+
+- Cynthia Ellis
+- Udochi Okeke
+- Ijemma Onwuzulike
+- Adaeze Umezurike
+- Jordan Williams
+- Oreen Yousuf
